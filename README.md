@@ -1,5 +1,7 @@
 ### Hi there 👋
 <img src="https://genshin-card.himiku.com/detail/3/4070.png"/>
+![](https://genshin-card.himiku.com/rand/4070.png)
+
 <!--
 **huihuh/huihuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
